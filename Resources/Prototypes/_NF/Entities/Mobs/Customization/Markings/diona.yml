@@ -1,0 +1,419 @@
+#Head
+- type: marking
+  id: DionaAntlersHead
+  bodyPart: HeadSide
+  markingCategory: HeadSide
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: antlers
+
+- type: marking
+  id: DionaSideAntlerHead
+  bodyPart: HeadSide
+  markingCategory: HeadSide
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: sideantlertrunk
+  - sprite: Mobs/Customization/diona.rsi
+    state: sideantlerflower
+
+- type: marking
+  id: DionaTreeFaceHead
+  bodyPart: HeadSide
+  markingCategory: HeadSide
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: treefacetrunk
+  - sprite: Mobs/Customization/diona.rsi
+    state: treefaceleaves
+
+- type: marking
+  id: DionaBigEyeHead
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:EyeColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: bigeye
+
+- type: marking
+  id: DionaBluebellHead
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: bluebellflower
+  - sprite: Mobs/Customization/diona.rsi
+    state: bluebellstem
+
+- type: marking
+  id: DionaEyeFlowerHead
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: eyeflower
+  - sprite: Mobs/Customization/diona.rsi
+    state: eyeflowerstem
+
+- type: marking
+  id: DionaMandiblesHead
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: mandibles
+
+- type: marking
+  id: DionaMothHead
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: mothface
+
+- type: marking
+  id: DionaPompomHead
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: pompom
+
+- type: marking
+  id: DionaSmallCornflowerHead
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: smallcornflower
+
+- type: marking
+  id: DionaSmallMandiblesHead
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: smallmandibles
+
+- type: marking
+  id: DionaSproutLeavesHead
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: sproutleaves
+
+- type: marking
+  id: DionaThornFangsHead
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: thornfangs
+
+- type: marking
+  id: DionaTripleEyeHead
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:EyeColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: tripleeye
+
+- type: marking
+  id: DionaVineHornsHead
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SkinColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: vinehorns
+
+- type: marking
+  id: DionaIntennaHead
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: intenna
+
+- type: marking
+  id: DionaOutennaHead
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: outenna  
+
+- type: marking
+  id: DionaStemHead
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SkinColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: stem
+
+#Chest
+- type: marking
+  id: DionaClownFlowerChest
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: clownflower
+
+- type: marking
+  id: DionaLadybugChest
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: ladybugshell
+  - sprite: Mobs/Customization/diona.rsi
+    state: ladybugspots
+
+- type: marking
+  id: DionaRibsChest
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: ribs
+
+- type: marking
+  id: DionaSpineChest
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: spine
+
+- type: marking
+  id: DionaSylvanChest
+  bodyPart: Chest
+  markingCategory: Chest
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: sylvan
+
+#Tail
+- type: marking
+  id: DionaSproutTail
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SkinColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: sprouttail
+
+- type: marking
+  id: DionaNymphTail
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SkinColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: nymphtail
+
+- type: marking
+  id: DionaSmallFlowerTail
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: smallflower
+
+- type: marking
+  id: DionaTrunkTail
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SkinColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: trunk
+
+- type: marking
+  id: DionaSnakeTail
+  bodyPart: Tail
+  markingCategory: Tail
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SkinColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: snake
+
+#Overlay
+- type: marking
+  id: DionaMothOverlay
+  bodyPart: LLeg
+  markingCategory: Overlay
+  speciesRestriction: [Diona]
+  coloring:
+    default:
+      type:
+        !type:SimpleColoring
+          color: "#FFFFFF"
+  sprites:
+  - sprite: Mobs/Customization/diona.rsi
+    state: mothoverlay

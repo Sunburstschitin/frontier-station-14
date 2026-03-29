@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "ladybug, eyeflower, sideantler, pompom, sproutleaves, smallcornflower, smallflower, bigeye, bluebell, intenna, outenna, sylvan, and tripleeye by parahumans (discord), with edits from SunburstsChitin (github). Remaining sprited by SunburstsChitin (github).",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "ribs",
+      "directions": 4
+    },
+    {
+      "name": "spine",
+      "directions": 4
+    },
+    {
+      "name": "clownflower",
+      "directions": 4
+    },
+    {
+      "name": "ladybugshell",
+      "directions": 4
+    },
+    {
+      "name": "ladybugspots",
+      "directions": 4
+    },
+    {
+      "name": "sylvan",
+      "directions": 4
+    }
+  ]
+}
