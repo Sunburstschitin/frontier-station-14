@@ -54,7 +54,6 @@
     default:
       type:
         !type:EyeColoring
-          color: "#FFFFFF"
   sprites:
   - sprite: _NF/Mobs/Customization/diona/diona_head.rsi
     state: bigeye
@@ -198,7 +197,6 @@
     default:
       type:
         !type:EyeColoring
-          color: "#FFFFFF"
   sprites:
   - sprite: _NF/Mobs/Customization/diona/diona_head.rsi
     state: tripleeye
@@ -212,7 +210,6 @@
     default:
       type:
         !type:SkinColoring
-          color: "#FFFFFF"
   sprites:
   - sprite: _NF/Mobs/Customization/diona/diona_head.rsi
     state: vinehorns
@@ -243,7 +240,7 @@
           color: "#FFFFFF"
   sprites:
   - sprite: _NF/Mobs/Customization/diona/diona_head.rsi
-    state: outenna  
+    state: outenna
 
 - type: marking
   id: DionaStemHead
@@ -254,7 +251,6 @@
     default:
       type:
         !type:SkinColoring
-          color: "#FFFFFF"
   sprites:
   - sprite: _NF/Mobs/Customization/diona/diona_head.rsi
     state: stem
@@ -342,7 +338,6 @@
     default:
       type:
         !type:SkinColoring
-          color: "#FFFFFF"
   sprites:
   - sprite: _NF/Mobs/Customization/diona/diona_tail.rsi
     state: sprouttail
@@ -356,7 +351,6 @@
     default:
       type:
         !type:SkinColoring
-          color: "#FFFFFF"
   sprites:
   - sprite: _NF/Mobs/Customization/diona/diona_tail.rsi
     state: nymphtail
@@ -369,8 +363,7 @@
   coloring:
     default:
       type:
-        !type:SimpleColoring
-          color: "#FFFFFF"
+        !type:SkinColoring
   sprites:
   - sprite: _NF/Mobs/Customization/diona/diona_tail.rsi
     state: smallflower
@@ -383,8 +376,7 @@
   coloring:
     default:
       type:
-        !type:SkinColoring
-          color: "#FFFFFF"
+       !type:SkinColoring
   sprites:
   - sprite: _NF/Mobs/Customization/diona/diona_tail.rsi
     state: trunk
@@ -398,7 +390,6 @@
     default:
       type:
         !type:SkinColoring
-          color: "#FFFFFF"
   sprites:
   - sprite: _NF/Mobs/Customization/diona/diona_tail.rsi
     state: snake
